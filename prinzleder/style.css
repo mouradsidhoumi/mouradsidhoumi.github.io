@@ -1,0 +1,29 @@
+.carousel-item>img {
+    height: 100vh;
+    object-fit: contain;
+    background-color: black;
+}
+
+.main-text {
+    top: 15%;
+    color: #fff;
+}
+
+#about_img {
+    max-width: 400px;
+
+}
+
+textarea {
+    min-height: 105px;
+}
+
+@media screen and (max-width: 600px) {
+    .card-title {
+        font-size: 6vw;
+    }
+
+    p.text-info {
+        font-size: 4vw;
+    }
+}

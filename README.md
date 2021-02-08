@@ -1,4 +1,4 @@
-## Github Pages - mouradsidhoumi.github.io
+## Github Pages
 
 ### Current hosted projects: 
 

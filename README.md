@@ -1,9 +1,10 @@
-# mouradsidhoumi.github.io
+## Github Pages - mouradsidhoumi.github.io
 
-Github Pages  -  Current hosted projects: 
+### Current hosted projects: 
 
--[decision-making-promethee2](https://github.com/mouradsidhoumi/decision-making-promethee2) : https://mouradsidhoumi.github.io/promethee2/
+Title / Repo | Link 
+--- | --- 
+[decision-making-promethee2](https://github.com/mouradsidhoumi/decision-making-promethee2) |  https://mouradsidhoumi.github.io/promethee2/
+Prinzleder -*a mark of leader goods*- <br> (Bootstrap site) | https://mouradsidhoumi.github.io/prinzleder/  
 
--Prinzleder -a mark of leader goods- (w/ Bootstrap) : https://mouradsidhoumi.github.io/prinzleder/
-
-Other can be found on CodePen : https://codepen.io/mouradsidhoumi
+#### ➕ **Others can be found on CodePen** : https://codepen.io/mouradsidhoumi
